@@ -13,6 +13,16 @@ public class BasicNavigation {
 
         Thread.sleep(3000); // for demo, wait 3 seconds
 
+        String title= driver.getTitle();
+        String expectedTitle= "Google";
+        System.out.println("Title is " + title);
+        if(expectedTitle.equals(title)){
+            System.out.println("Test Passed" );
+        }else {
+            System.out.println("Test Failed");
+        }
+
         driver.close(); // to close browser
+        // browser can not close itself
     }
 }
