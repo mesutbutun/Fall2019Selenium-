@@ -154,10 +154,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="basic navigation create" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="353" y="34" key="CommitChangelistDialog2" timestamp="1583099601131">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="353" y="34" key="CommitChangelistDialog2" timestamp="1583101081254">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1583087409524" />
+    <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1583101081254" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1583089049216" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1583099601131" />
     <state width="1398" height="115" key="GridCell.Tab.0.bottom" timestamp="1583099574905">
@@ -200,9 +200,10 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
-    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1583099607618">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1583101084299">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1583101084299" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1583089055556" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
     <state x="295" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583068035540">
