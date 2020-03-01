@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day2/JumpToTheNewWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day2/QuitVsClose.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day2/BasicNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day2/BasicNavigation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583089049335</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="basic navigation create">
+      <created>1583099601252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583099601252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -150,12 +154,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="basic navigation create" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="353" y="34" key="CommitChangelistDialog2" timestamp="1583099574876">
+    <state x="353" y="34" key="CommitChangelistDialog2" timestamp="1583099601131">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1583087409524" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1583089049216" />
-    <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1583099574876" />
+    <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1583099601131" />
     <state width="1398" height="115" key="GridCell.Tab.0.bottom" timestamp="1583099574905">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
@@ -196,10 +200,11 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1583089055556">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1583099607618">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1583089055556" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
     <state x="295" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583068035540">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
