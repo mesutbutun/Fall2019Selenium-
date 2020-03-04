@@ -19,6 +19,9 @@ public class GoogleSearchTest {
 
         search.sendKeys("Java", Keys.ENTER);
         Thread.sleep(2000);
+        WebElement news= driver.findElement(By.linkText("News"));
+        Thread.sleep(4000);
+        news.click();
 
         driver.quit();
     }
