@@ -1,4 +1,4 @@
-package com.automation.tests.day1.com.automation.tests.warmup;
+package com.warmup;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
