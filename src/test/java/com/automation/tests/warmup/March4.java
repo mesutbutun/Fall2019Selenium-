@@ -1,10 +1,9 @@
-package com.warmup;
+package com.automation.tests.warmup;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import utilities.DriverFactory;
-import java.util.Arrays;
+import com.automation.utilities.DriverFactory;
+
 public class March4 {
     public static void main(String[] args) throws InterruptedException {
        ;

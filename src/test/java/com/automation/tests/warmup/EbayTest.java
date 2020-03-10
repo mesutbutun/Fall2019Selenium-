@@ -1,9 +1,9 @@
-package com.warmup;
+package com.automation.tests.warmup;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import utilities.DriverFactory;
+import com.automation.utilities.DriverFactory;
 
 import java.util.Arrays;
 
