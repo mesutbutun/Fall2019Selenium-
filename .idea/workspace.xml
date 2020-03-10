@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/CheckBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/CheckBoxesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/FileUploading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/NestedFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RadioButtons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RadioButtonsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/RegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day5/TestForiFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/NoSelectDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByTextMultipleOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/SelectByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day6/Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/automation/FindElementsPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/warmup/AmazonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/warmup/AmazonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/warmup/EbayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/warmup/EbayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/warmup/March4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/warmup/March4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day03/FindElementById.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/FindElementById.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day03/FindElementsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day3/FindElementsPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day1/MyFirstSeleniumScript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day1/MyFirstSeleniumScript.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day2/BasicNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/BasicNavigation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day2/GoogleSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/GoogleSearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day2/JumpToTheNewWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/JumpToTheNewWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day2/QuitVsClose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day2/QuitVsClose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day4/FindElementsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/FindElementsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day4/VerifyThatElementIsGone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day4/VerifyThatElementIsGone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day5/RadioButtons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583598185256</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="basic navigation create">
+      <created>1583868232297</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1583868232297</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -272,11 +244,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="352" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1583417213584" />
-    <state x="353" y="34" key="CommitChangelistDialog2" timestamp="1583598185055">
+    <state x="99" y="34" key="CommitChangelistDialog2" timestamp="1583868232098">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="353" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583433368756" />
-    <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1583598185055" />
+    <state x="99" y="34" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1583868232098" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1583102540634" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1583089049216" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1583099601131" />
@@ -361,11 +333,11 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1583598187064">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1583868234869">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1583598187064" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1583868234869" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1583102542199" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1583089055556" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
