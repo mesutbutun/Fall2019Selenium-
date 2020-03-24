@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day7/Xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day10/ActionsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day10/JSExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day11/JSExecutor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day11/WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day13/SystemProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day7/CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/BasicTestNGTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/PracticeTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/SearchTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/UnitTestPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/fleet/VehiclesPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/practice/RegistrationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/CalendarEventsPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/CallsPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/LoginPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/VehiclesPageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/training/Exercising1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/training/LocatorsPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +66,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="Application.Xpath (1)">
-    <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day6.Alerts" />
+  <component name="RunManager" selected="TestNG.SystemProperties.test">
+    <configuration name="Exercising1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.Exercising1" />
       <module name="Fall2019Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.tests.day6.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegistrationForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day5.RegistrationForm" />
+    <configuration name="GoogleSearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day2.GoogleSearchTest" />
       <module name="Fall2019Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.tests.day5.*" />
+          <option name="PATTERN" value="com.automation.tests.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestForiFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day5.TestForiFrame" />
+    <configuration name="LocatorsPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="training.LocatorsPractice" />
       <module name="Fall2019Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.tests.day5.*" />
+          <option name="PATTERN" value="training.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,39 +106,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Xpath (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day7.Xpath" />
+    <configuration name="SystemProperties.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Fall2019Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.tests.day7.*" />
+          <option name="PATTERN" value="com.automation.tests.day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day13" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day13.SystemProperties" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day6.Xpath" />
+    <configuration name="WebTables.getSpecificCell" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Fall2019Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.tests.day6.*" />
+          <option name="PATTERN" value="com.automation.tests.day11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.day11" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.day11.WebTables" />
+      <option name="METHOD_NAME" value="getSpecificCell" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Xpath (1)" />
-        <item itemvalue="Application.Xpath" />
-        <item itemvalue="Application.Alerts" />
-        <item itemvalue="Application.TestForiFrame" />
-        <item itemvalue="Application.RegistrationForm" />
+        <item itemvalue="TestNG.SystemProperties.test" />
+        <item itemvalue="Application.LocatorsPractice" />
+        <item itemvalue="Application.GoogleSearchTest" />
+        <item itemvalue="Application.Exercising1" />
+        <item itemvalue="TestNG.WebTables.getSpecificCell" />
       </list>
     </recent_temporary>
   </component>
@@ -446,81 +476,89 @@
       <option name="project" value="LOCAL" />
       <updated>1583868669030</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="locators day 7">
+      <created>1583890530671</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1583890530671</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic navigation create" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic navigation create" />
+    <MESSAGE value="locators day 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="locators day 7" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="100" key="#Project_Structure" timestamp="1583877129105">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="320" y="100" key="#Project_Structure" timestamp="1584288421001">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="84" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1583398118889" />
     <state x="320" y="100" key="#Project_Structure/0.23.1440.823@0.23.1440.823" timestamp="1583877129105" />
-    <state x="320" y="100" key="#Project_Structure/0.23.1440.825@0.23.1440.825" timestamp="1583869171086" />
+    <state x="320" y="100" key="#Project_Structure/0.23.1440.825@0.23.1440.825" timestamp="1584288421001" />
     <state x="352" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583417213584">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="352" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1583417213584" />
-    <state x="99" y="34" key="CommitChangelistDialog2" timestamp="1583868668927">
+    <state x="99" y="34" key="CommitChangelistDialog2" timestamp="1583890530555">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="353" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583433368756" />
-    <state x="99" y="34" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1583868668927" />
+    <state x="99" y="34" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1583890530555" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1583102540634" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1583089049216" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1583099601131" />
-    <state width="1398" height="21" key="GridCell.Tab.0.bottom" timestamp="1583890493871">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom" timestamp="1585092640074">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1398" height="276" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583533283228" />
-    <state width="1398" height="27" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1583543800780" />
-    <state width="1398" height="134" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1583293860540" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1583070649167" />
-    <state width="1398" height="21" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1583890493871" />
-    <state width="1398" height="27" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1583541794160" />
-    <state width="1398" height="27" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1583541753696" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1584223821492" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585038975247" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1584938778169" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1584939076768" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1585092640074" />
+    <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1584939419471" />
     <state width="1398" height="115" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1583098256951" />
     <state width="1398" height="115" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1583098672268" />
     <state width="1398" height="134" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1583289534281" />
-    <state width="1398" height="21" key="GridCell.Tab.0.center" timestamp="1583890493870">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center" timestamp="1585092640073">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1398" height="276" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583533283227" />
-    <state width="1398" height="27" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1583543800780" />
-    <state width="1398" height="134" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1583293860540" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1583070649167" />
-    <state width="1398" height="21" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1583890493870" />
-    <state width="1398" height="27" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1583541794159" />
-    <state width="1398" height="27" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1583541753696" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1584223821491" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585038975246" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1584938778168" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1584939076767" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1585092640073" />
+    <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1584939419470" />
     <state width="1398" height="115" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1583098256950" />
     <state width="1398" height="115" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1583098672267" />
     <state width="1398" height="134" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1583289534280" />
-    <state width="1398" height="21" key="GridCell.Tab.0.left" timestamp="1583890493870">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left" timestamp="1585092640072">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1398" height="276" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583533283225" />
-    <state width="1398" height="27" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1583543800780" />
-    <state width="1398" height="134" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1583293860540" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1583070649167" />
-    <state width="1398" height="21" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1583890493870" />
-    <state width="1398" height="27" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1583541794158" />
-    <state width="1398" height="27" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1583541753695" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1584223821491" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585038975244" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1584938778168" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1584939076766" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1585092640072" />
+    <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1584939419470" />
     <state width="1398" height="115" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1583098256950" />
     <state width="1398" height="115" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1583098672267" />
     <state width="1398" height="134" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1583289534280" />
-    <state width="1398" height="21" key="GridCell.Tab.0.right" timestamp="1583890493871">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right" timestamp="1585092640073">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state width="1398" height="276" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583533283227" />
-    <state width="1398" height="27" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1583543800780" />
-    <state width="1398" height="134" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1583293860540" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1583070649167" />
-    <state width="1398" height="21" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1583890493871" />
-    <state width="1398" height="27" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1583541794159" />
-    <state width="1398" height="27" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1583541753696" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1584223821492" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585038975246" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1584938778169" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1584939076767" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1585092640073" />
+    <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1584939419471" />
     <state width="1398" height="115" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1583098256950" />
     <state width="1398" height="115" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1583098672268" />
     <state width="1398" height="134" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1583289534281" />
@@ -553,11 +591,11 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1583868670310">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1583890532446">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1583868670310" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1583890532446" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1583102542199" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1583089055556" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
