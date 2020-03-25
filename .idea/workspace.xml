@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day10/ActionsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day10/JSExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day11/JSExecutor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day11/WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day13/SystemProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day7/CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/BasicTestNGTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/PracticeTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/SearchTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day8/UnitTestPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/fleet/VehiclesPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/practice/RegistrationForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/CalendarEventsPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/CallsPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/LoginPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/VehiclesPageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/training/Exercising1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/training/LocatorsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day13/ConfigurationReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/ConfigurationReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -483,31 +464,39 @@
       <option name="project" value="LOCAL" />
       <updated>1583890530671</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="configuration.properties day13">
+      <created>1585093430391</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1585093430391</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic navigation create" />
     <MESSAGE value="locators day 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="locators day 7" />
+    <MESSAGE value="configuration.properties day13" />
+    <option name="LAST_COMMIT_MESSAGE" value="configuration.properties day13" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="100" key="#Project_Structure" timestamp="1584288421001">
+    <state x="320" y="100" key="#Project_Structure" timestamp="1585093478413">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="84" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1583398118889" />
     <state x="320" y="100" key="#Project_Structure/0.23.1440.823@0.23.1440.823" timestamp="1583877129105" />
-    <state x="320" y="100" key="#Project_Structure/0.23.1440.825@0.23.1440.825" timestamp="1584288421001" />
+    <state x="320" y="100" key="#Project_Structure/0.23.1440.825@0.23.1440.825" timestamp="1585093478413" />
     <state x="352" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583417213584">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="352" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1583417213584" />
-    <state x="99" y="34" key="CommitChangelistDialog2" timestamp="1583890530555">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="353" y="34" key="CommitChangelistDialog2" timestamp="1585093430152">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="353" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583433368756" />
     <state x="99" y="34" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1583890530555" />
-    <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1583102540634" />
+    <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1585093430152" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1583089049216" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1583099601131" />
     <state width="1398" height="265" key="GridCell.Tab.0.bottom" timestamp="1585092640074">
@@ -591,12 +580,12 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1583890532446">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1585093433372">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1583890532446" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1583102542199" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1585093433372" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1583089055556" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
     <state x="295" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583068035540">
