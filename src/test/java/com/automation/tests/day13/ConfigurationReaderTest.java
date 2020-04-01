@@ -7,7 +7,7 @@ public class ConfigurationReaderTest {
 
     @Test
     public  void  readProperties(){
-        String browser = ConfigurationReader.getProperty("abc")
+        String browser = ConfigurationReader.getProperty("abc");
 
     }
 }

@@ -1,4 +1,4 @@
-package com.automation.tests.fleet;
+package com.automation.tests.vytrack.fleet;
 
 import com.automation.utilities.BrowserUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -22,7 +22,7 @@ import org.testng.annotations.Test;
  - in this test, you will need to navigate to Fleet --> Vehicles and verify that page subtitle is equals to "All Cars"
  user assertions for validation.
  */
-public class VehiclesPageTests {
+public class VehiclesTests {
     private String URL = "https://qa2.vytrack.com/user/login";
     //    CREDENTIALS FOR store manager
     private String username = "storemanager85";
