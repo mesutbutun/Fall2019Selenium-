@@ -2,32 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/AbstractPageBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/VehiclesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/activities/CalenderEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day12/ExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day12/FluentWaitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day12/ImplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day12/WebOrders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day13/DriverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/fleet/NewVehiclesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/AbstractTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/NewLoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/VehiclePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/DateTimeUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/training/VytrackLoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/homework/LessThan25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/homework/RandomSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/homework/YearsMonthDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/ReadDataFromExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/NewCalendarEventsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/day13/ConfigurationReaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/day13/ConfigurationReaderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/fleet/VehiclesPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/fleet/VehiclesTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/LoginPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/LoginTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/AbstractTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/AbstractTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/NewLoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/NewLoginTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/target/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="XSLT Stylesheet" />
       </list>
     </option>
   </component>
@@ -77,25 +66,50 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="TestNG.NewLoginTests.verifyWarningMessage">
-    <configuration name="CallsPageTests" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ReadDataFromExcel.readExcelFileTest">
+    <configuration name="NewLoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Fall2019Selenium-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.tests.vytrack.activities.*" />
+          <option name="PATTERN" value="com.automation.tests.vytrack.login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests.vytrack.activities" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.vytrack.activities.CallsPageTests" />
+      <option name="PACKAGE_NAME" value="com.automation.tests.vytrack.login" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.vytrack.login.NewLoginTests" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewLoginTests.verifyPageTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019Selenium-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.tests.vytrack.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.tests.vytrack.login" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.vytrack.login.NewLoginTests" />
+      <option name="METHOD_NAME" value="verifyPageTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -120,17 +134,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewVehiclesTests" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadDataFromExcel.readExcelFileTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Fall2019Selenium-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.automation.tests.vytrack.fleet.*" />
+          <option name="PATTERN" value="com.automation.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests.vytrack.fleet" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.vytrack.fleet.NewVehiclesTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="com.automation.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.tests.ReadDataFromExcel" />
+      <option name="METHOD_NAME" value="readExcelFileTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -154,31 +169,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VytrackLoginPageTest.invalidUserName" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Fall2019Selenium-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="training.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="training" />
-      <option name="MAIN_CLASS_NAME" value="training.VytrackLoginPageTest" />
-      <option name="METHOD_NAME" value="invalidUserName" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ReadDataFromExcel.readExcelFileTest" />
+        <item itemvalue="TestNG.NewLoginTests.verifyPageTitle" />
+        <item itemvalue="TestNG.NewLoginTests" />
         <item itemvalue="TestNG.NewLoginTests.verifyWarningMessage" />
         <item itemvalue="TestNG.VytrackLoginPageTest" />
-        <item itemvalue="TestNG.VytrackLoginPageTest.invalidUserName" />
-        <item itemvalue="TestNG.CallsPageTests" />
-        <item itemvalue="TestNG.NewVehiclesTests" />
       </list>
     </recent_temporary>
   </component>
@@ -525,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585093430391</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="day 16 screenshot and report">
+      <created>1585699622829</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1585699622830</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -545,7 +549,8 @@
     <MESSAGE value="basic navigation create" />
     <MESSAGE value="locators day 7" />
     <MESSAGE value="configuration.properties day13" />
-    <option name="LAST_COMMIT_MESSAGE" value="configuration.properties day13" />
+    <MESSAGE value="day 16 screenshot and report" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 16 screenshot and report" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="100" key="#Project_Structure" timestamp="1585093478413">
@@ -554,6 +559,10 @@
     <state x="320" y="84" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1583398118889" />
     <state x="320" y="100" key="#Project_Structure/0.23.1440.823@0.23.1440.823" timestamp="1583877129105" />
     <state x="320" y="100" key="#Project_Structure/0.23.1440.825@0.23.1440.825" timestamp="1585093478413" />
+    <state x="100" y="123" width="1240" height="623" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585701309777">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="100" y="123" width="1240" height="623" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.823@0.23.1440.823" timestamp="1585701309777" />
     <state x="462" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585497142775">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -562,11 +571,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="352" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1583417213584" />
-    <state x="353" y="34" key="CommitChangelistDialog2" timestamp="1585093430152">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="51" y="34" key="CommitChangelistDialog2" timestamp="1585699622621">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="353" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583433368756" />
-    <state x="99" y="34" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1583890530555" />
+    <state x="51" y="34" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1585699622621" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1585093430152" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1583089049216" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1583099601131" />
@@ -575,56 +584,56 @@
     </state>
     <state x="100" y="123" width="1240" height="623" key="DiffContextDialog/0.23.1440.823@0.23.1440.823" timestamp="1585551952487" />
     <state x="100" y="123" width="1240" height="625" key="DiffContextDialog/0.23.1440.826@0.23.1440.826" timestamp="1585171359011" />
-    <state width="1398" height="33" key="GridCell.Tab.0.bottom" timestamp="1585621303540">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1398" height="374" key="GridCell.Tab.0.bottom" timestamp="1586021881734">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1398" height="276" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583533283228" />
-    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1584223821492" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1585728925047" />
     <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1585038975247" />
     <state width="1398" height="265" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1584938778169" />
-    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1585583033109" />
-    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1585602901530" />
-    <state width="1398" height="33" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585621303540" />
-    <state width="1398" height="115" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1583098256951" />
+    <state width="1398" height="374" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1586021881734" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1585704971938" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585705902173" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1585714125794" />
     <state width="1398" height="115" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1583098672268" />
     <state width="1398" height="134" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1583289534281" />
-    <state width="1398" height="33" key="GridCell.Tab.0.center" timestamp="1585621303539">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1398" height="374" key="GridCell.Tab.0.center" timestamp="1586021881734">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1398" height="276" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583533283227" />
-    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1584223821491" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1585728925047" />
     <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1585038975246" />
     <state width="1398" height="265" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1584938778168" />
-    <state width="1398" height="160" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1585583033108" />
-    <state width="1398" height="160" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1585602901530" />
-    <state width="1398" height="33" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1585621303539" />
-    <state width="1398" height="115" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1583098256950" />
+    <state width="1398" height="374" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1586021881734" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1585704971937" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1585705902172" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1585714125793" />
     <state width="1398" height="115" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1583098672267" />
     <state width="1398" height="134" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1583289534280" />
-    <state width="1398" height="33" key="GridCell.Tab.0.left" timestamp="1585621303538">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1398" height="374" key="GridCell.Tab.0.left" timestamp="1586021881733">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1398" height="276" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583533283225" />
-    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1584223821491" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1585728925046" />
     <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1585038975244" />
     <state width="1398" height="265" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1584938778168" />
-    <state width="1398" height="160" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1585583033107" />
-    <state width="1398" height="160" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1585602901529" />
-    <state width="1398" height="33" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1585621303538" />
-    <state width="1398" height="115" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1583098256950" />
+    <state width="1398" height="374" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1586021881733" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1585704971937" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1585705902172" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1585714125793" />
     <state width="1398" height="115" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1583098672267" />
     <state width="1398" height="134" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1583289534280" />
-    <state width="1398" height="33" key="GridCell.Tab.0.right" timestamp="1585621303540">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1398" height="374" key="GridCell.Tab.0.right" timestamp="1586021881734">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1398" height="276" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583533283227" />
-    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1584223821492" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1585728925047" />
     <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1585038975246" />
     <state width="1398" height="265" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1584938778169" />
-    <state width="1398" height="160" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1585583033108" />
-    <state width="1398" height="160" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1585602901530" />
-    <state width="1398" height="33" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1585621303540" />
-    <state width="1398" height="115" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1583098256950" />
+    <state width="1398" height="374" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1586021881734" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1585704971938" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1585705902173" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1585714125794" />
     <state width="1398" height="115" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1583098672268" />
     <state width="1398" height="134" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1583289534281" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1583543800760">
@@ -661,11 +670,11 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1585093433372">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1585699630981">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1583890532446" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1585699630981" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1585093433372" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1583089055556" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
