@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smoke_test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/CalendarEventsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/ExcelUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/training/CheckBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/training/FindElementLinkText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/training/FindElementXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/training/SelfWorking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/ReadDataFromExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/ReadDataFromExcel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/NewCalendarEventsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/NewCalendarEventsTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/AbstractTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/AbstractTestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/NewLoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/NewLoginTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/ConfigurationReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/training/LocatorsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/training/LocatorsPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -495,7 +474,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586381355336</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="day 25  Excel io">
+      <created>1586722379515</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1586722379515</updated>
+    </task>
+    <task id="LOCAL-00049" summary="day 16 Screen shot and report">
+      <created>1586722588196</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1586722588196</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +509,9 @@
     <MESSAGE value="configuration.properties day13" />
     <MESSAGE value="day 16 screenshot and report" />
     <MESSAGE value="day 25  VytrackTestUsers.xlsx" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 25  VytrackTestUsers.xlsx" />
+    <MESSAGE value="day 25  Excel io" />
+    <MESSAGE value="day 16 Screen shot and report" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 16 Screen shot and report" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="101" key="#Plugins" timestamp="1586593410890">
@@ -545,12 +540,12 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="494" y="327" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.825@0.23.1440.825" timestamp="1586627755208" />
-    <state x="353" y="34" key="CommitChangelistDialog2" timestamp="1586381355124">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="353" y="23" key="CommitChangelistDialog2" timestamp="1586722588077">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="353" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583433368756" />
     <state x="51" y="34" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1585699622621" />
-    <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1585093430152" />
+    <state x="353" y="23" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1586722588077" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1586381355124" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1583099601131" />
     <state x="100" y="123" width="1240" height="623" key="DiffContextDialog" timestamp="1585551952487">
@@ -681,12 +676,12 @@
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
     <state x="229" y="73" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1586458596540" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586381362819">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586722592247">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1585699630981" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1585093433372" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586722592247" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1586381362819" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
     <state x="295" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583068035540">
