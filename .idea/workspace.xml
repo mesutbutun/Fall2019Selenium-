@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="day 17 DDT">
+    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="day 14 page object model">
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" afterDir="false" />
@@ -137,6 +137,7 @@
       <change afterPath="$PROJECT_DIR$/target/test-classes/training/SelfWorking.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/test-classes/training/VytrackLoginPageTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/pages/activities/CalendarEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/activities/CalendarEventsPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,20 +281,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583015139951</updated>
-    </task>
-    <task id="LOCAL-00015" summary="basic navigation create">
-      <created>1583868294909</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1583868294910</updated>
-    </task>
-    <task id="LOCAL-00016" summary="basic navigation create">
-      <created>1583868304751</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1583868304751</updated>
     </task>
     <task id="LOCAL-00017" summary="basic navigation create">
       <created>1583868318918</created>
@@ -624,7 +611,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586727774280</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="day 15 page object model">
+      <created>1586727975510</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1586727975510</updated>
+    </task>
+    <task id="LOCAL-00065" summary="day 14 page object model">
+      <created>1586728121206</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1586728121206</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -647,12 +648,13 @@
     <MESSAGE value="day 25  VytrackTestUsers.xlsx" />
     <MESSAGE value="day 25  Excel io" />
     <MESSAGE value="day 16 Screen shot and report" />
-    <MESSAGE value="day 14 page object model" />
     <MESSAGE value="day 10 vytrack automation" />
     <MESSAGE value="day 9 vytrack automation" />
     <MESSAGE value="day 25 excel" />
     <MESSAGE value="day 17 DDT" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 17 DDT" />
+    <MESSAGE value="day 15 page object model" />
+    <MESSAGE value="day 14 page object model" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 14 page object model" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="101" key="#Plugins" timestamp="1586593410890">
@@ -822,12 +824,12 @@
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
     <state x="229" y="73" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1586458596540" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586727776445">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586728126728">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1585699630981" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586727776445" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586728126728" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1586381362819" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
     <state x="295" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583068035540">
