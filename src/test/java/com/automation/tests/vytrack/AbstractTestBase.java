@@ -1,4 +1,4 @@
-package com.automation.tests.vytrack.login;
+package com.automation.tests.vytrack;
 
 
 import com.automation.utilities.BrowserUtils;
