@@ -1,4 +1,4 @@
-package com.automation.pages.LoginPage;
+package com.automation.pages;
 
 
 import com.automation.utilities.BrowserUtils;
