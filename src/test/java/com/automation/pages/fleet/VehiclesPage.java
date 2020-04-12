@@ -18,3 +18,4 @@ public class VehiclesPage extends AbstractPageBase {
         wait.until(ExpectedConditions.elementToBeClickable(createCar)).click();
     }
 }
+
