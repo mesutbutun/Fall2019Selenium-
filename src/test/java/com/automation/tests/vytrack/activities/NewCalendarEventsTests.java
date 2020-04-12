@@ -1,6 +1,5 @@
 package com.automation.tests.vytrack.activities;
 
-import com.automation.pages.LoginPage;
 import com.automation.pages.activities.CalendarEventsPage;
 import com.automation.utilities.DateTimeUtilities;
 import org.testng.Assert;
