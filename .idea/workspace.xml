@@ -163,13 +163,6 @@
       <option name="presentableId" value="Default" />
       <updated>1583015139951</updated>
     </task>
-    <task id="LOCAL-00023" summary="basic navigation create">
-      <created>1583868423797</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1583868423797</updated>
-    </task>
     <task id="LOCAL-00024" summary="basic navigation create">
       <created>1583868438677</created>
       <option name="number" value="00024" />
@@ -506,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586728905918</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="homework">
+      <created>1586729168886</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1586729168886</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -706,12 +706,12 @@
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
     <state x="229" y="73" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1586458596540" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586728909426">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586729170579">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1585699630981" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586728909426" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586729170579" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1586381362819" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
     <state x="295" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583068035540">
