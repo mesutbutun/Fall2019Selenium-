@@ -2,7 +2,6 @@ package com.automation.tests.vytrack.fleet;
 
 
 import com.automation.pages.LoginPage;
-import com.automation.pages.VehiclesPage;
 import com.automation.utilities.Driver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
