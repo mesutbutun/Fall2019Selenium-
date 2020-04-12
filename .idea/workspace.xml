@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="day 9 vytrack automation">
+    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="day 25 excel">
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/activities/CalendarEventsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/AbstractTestBase/AbstractTestBase.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/testng-failed.xml" afterDir="false" />
@@ -138,9 +138,7 @@
       <change afterPath="$PROJECT_DIR$/target/test-classes/training/SelfWorking.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/test-classes/training/VytrackLoginPageTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/pages/activities/CalenderEventsPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/NewCalendarEventsTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/activities/NewCalendarEventsTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/NewLoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/tests/vytrack/login/NewLoginTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -284,13 +282,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583015139951</updated>
-    </task>
-    <task id="LOCAL-00011" summary="basic navigation create">
-      <created>1583598185256</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1583598185256</updated>
     </task>
     <task id="LOCAL-00012" summary="basic navigation create">
       <created>1583868232297</created>
@@ -628,7 +619,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586725717557</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="day 25 excel">
+      <created>1586726598475</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1586726598475</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -651,11 +649,11 @@
     <MESSAGE value="day 25  VytrackTestUsers.xlsx" />
     <MESSAGE value="day 25  Excel io" />
     <MESSAGE value="day 16 Screen shot and report" />
-    <MESSAGE value="day 25 excel" />
     <MESSAGE value="day 14 page object model" />
     <MESSAGE value="day 10 vytrack automation" />
     <MESSAGE value="day 9 vytrack automation" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 9 vytrack automation" />
+    <MESSAGE value="day 25 excel" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 25 excel" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="101" key="#Plugins" timestamp="1586593410890">
@@ -825,12 +823,12 @@
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
     <state x="229" y="73" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1586458596540" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586725723682">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586726600549">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1585699630981" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586725723682" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586726600549" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1586381362819" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
     <state x="295" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583068035540">
