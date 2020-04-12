@@ -19,126 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="day 14 page object model">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/Command line test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Command line suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.automation.tests.day12.FluentWaitTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.automation.tests.day13.ConfigurationReaderTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.automation.tests.day13.DriverTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-training.VytrackLoginPageTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/Command line test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Command line suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/homework/LessThan25.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/homework/RandomSelection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/homework/YearsMonthDays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/pages/AbstractPageBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/pages/VehiclesPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/pages/activities/CalendarEventsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/ReadDataFromExcel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day1/MyFirstSeleniumScript.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day10/ActionsTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day10/JSExecutor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day11/JSExecutor2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day11/WebTables.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day12/ExplicitWait.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day12/FluentWaitTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day12/ImplicitWait.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day12/WebOrders.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day13/ConfigurationReaderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day13/DriverTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day13/SystemProperties.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/BasicNavigation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/GoogleSearchTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/JumpToTheNewWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day2/QuitVsClose.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day3/FindElementById.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day3/FindElementsPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day4/FindElementsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day4/VerifyThatElementIsGone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/CheckBoxes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/CheckBoxesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/FileUploading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/NestedFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/RadioButtons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/RadioButtonsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/RegistrationForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day5/TestForiFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/Alerts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/NoSelectDropdown.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByIndex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByTextMultipleOptions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/SelectByValue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day6/Xpath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day7/CssSelector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day7/Xpath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/BasicTestNGTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/PracticeTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/SearchTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/day8/UnitTestPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/practice/RegistrationForm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/activities/CalendarEventsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/activities/CalendarEventsPageTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/activities/CallsPageTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/activities/NewCalendarEventsTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/fleet/NewVehiclesTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/fleet/VehiclesTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/login/AbstractTestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/login/LoginTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/login/NewLoginTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/login/VehiclePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/vytrack/login/VehiclesPageTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/warmup/AmazonTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/warmup/EbayTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/tests/warmup/March4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/BrowserUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/ConfigurationReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/DateTimeUtilities.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/DriverFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/automation/utilities/ExcelUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/officeHours/SeleniumOH1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/officeHours/SeleniumOH2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/training/CheckBoxes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/training/Exercising1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/training/FindElementLinkText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/training/FindElementXpath.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/training/LocatorsPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/training/SelfWorking.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/training/VytrackLoginPageTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/pages/activities/CalendarEventsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/activities/CalendarEventsPage.java" afterDir="false" />
-    </list>
+    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="day 16 screenshot and report" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,20 +162,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583015139951</updated>
-    </task>
-    <task id="LOCAL-00017" summary="basic navigation create">
-      <created>1583868318918</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1583868318918</updated>
-    </task>
-    <task id="LOCAL-00018" summary="basic navigation create">
-      <created>1583868329962</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1583868329962</updated>
     </task>
     <task id="LOCAL-00019" summary="basic navigation create">
       <created>1583868352550</created>
@@ -625,7 +492,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586728121206</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="day 25 excel">
+      <created>1586728243019</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1586728243019</updated>
+    </task>
+    <task id="LOCAL-00067" summary="day 16 screenshot and report">
+      <created>1586728406231</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1586728406231</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -644,17 +525,17 @@
     <MESSAGE value="basic navigation create" />
     <MESSAGE value="locators day 7" />
     <MESSAGE value="configuration.properties day13" />
-    <MESSAGE value="day 16 screenshot and report" />
     <MESSAGE value="day 25  VytrackTestUsers.xlsx" />
     <MESSAGE value="day 25  Excel io" />
     <MESSAGE value="day 16 Screen shot and report" />
     <MESSAGE value="day 10 vytrack automation" />
     <MESSAGE value="day 9 vytrack automation" />
-    <MESSAGE value="day 25 excel" />
     <MESSAGE value="day 17 DDT" />
     <MESSAGE value="day 15 page object model" />
     <MESSAGE value="day 14 page object model" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 14 page object model" />
+    <MESSAGE value="day 25 excel" />
+    <MESSAGE value="day 16 screenshot and report" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 16 screenshot and report" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="101" key="#Plugins" timestamp="1586593410890">
@@ -824,12 +705,12 @@
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
     <state x="229" y="73" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1586458596540" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586728126728">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586728411169">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1585699630981" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586728126728" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586728411169" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1586381362819" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
     <state x="295" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583068035540">
