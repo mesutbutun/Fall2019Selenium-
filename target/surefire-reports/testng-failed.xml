@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="com.automation.tests.day12.FluentWaitTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="fluentWaitTest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.automation.tests.day12.FluentWaitTest -->
+      <class name="training.VytrackLoginPageTest">
+        <methods>
+          <include name="invalidUserName"/>
+          <include name="loginAsStoreManager"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- training.VytrackLoginPageTest -->
+      <class name="com.automation.tests.day13.DriverTest">
+        <methods>
+          <include name="googleTest"/>
+        </methods>
+      </class> <!-- com.automation.tests.day13.DriverTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
