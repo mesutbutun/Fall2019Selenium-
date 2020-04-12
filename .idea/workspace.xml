@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="day 17 DDT">
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-    </list>
+    <list default="true" id="b63e6c97-4aa4-476a-8548-66f8aa18fad4" name="Default Changelist" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,13 +162,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583015139951</updated>
-    </task>
-    <task id="LOCAL-00026" summary="basic navigation create">
-      <created>1583868460726</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1583868460726</updated>
     </task>
     <task id="LOCAL-00027" summary="basic navigation create">
       <created>1583868471280</created>
@@ -508,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586729496908</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="first commit">
+      <created>1586729771228</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1586729771228</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -538,7 +536,8 @@
     <MESSAGE value="homework" />
     <MESSAGE value="day 25 excel" />
     <MESSAGE value="day 17 DDT" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 17 DDT" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="101" key="#Plugins" timestamp="1586593410890">
@@ -555,10 +554,11 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="100" y="123" width="1240" height="623" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.823@0.23.1440.823" timestamp="1585701309777" />
-    <state x="462" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585497142775">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="462" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586729974814">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="462" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1585497142775" />
+    <state x="462" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.825@0.23.1440.825" timestamp="1586729974814" />
     <state x="352" y="382" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583417213584">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -708,12 +708,12 @@
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
     <state x="229" y="73" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1586458596540" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586729498433">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586729772833">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1585699630981" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586729498433" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586729772833" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1586381362819" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
     <state x="295" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583068035540">
