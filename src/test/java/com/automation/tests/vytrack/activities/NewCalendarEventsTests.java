@@ -1,8 +1,7 @@
 package com.automation.tests.vytrack.activities;
 
 import com.automation.pages.LoginPage;
-import com.automation.pages.activities.CalendarEventsPage;
-import com.automation.tests.vytrack.AbstractTestBase;
+import com.automation.tests.vytrack.login.AbstractTestBase;
 import com.automation.utilities.DateTimeUtilities;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
