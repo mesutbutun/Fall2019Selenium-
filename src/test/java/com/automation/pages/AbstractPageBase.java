@@ -1,5 +1,4 @@
-package com.automation.pages.AbstractPageBase;
-
+package com.automation.pages;
 
 import com.automation.utilities.BrowserUtils;
 import com.automation.utilities.Driver;
