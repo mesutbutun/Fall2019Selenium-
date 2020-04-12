@@ -1,6 +1,5 @@
 package com.automation.homework;
 
-
 import com.automation.utilities.Driver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
