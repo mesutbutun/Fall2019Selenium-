@@ -145,13 +145,6 @@
       <option name="presentableId" value="Default" />
       <updated>1583015139951</updated>
     </task>
-    <task id="LOCAL-00003" summary="basic navigation create">
-      <created>1583099601252</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1583099601252</updated>
-    </task>
     <task id="LOCAL-00004" summary="basic navigation create">
       <created>1583101081383</created>
       <option name="number" value="00004" />
@@ -488,7 +481,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586723018670</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="day 14 page object model">
+      <created>1586723892527</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1586723892527</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -511,9 +511,9 @@
     <MESSAGE value="day 25  VytrackTestUsers.xlsx" />
     <MESSAGE value="day 25  Excel io" />
     <MESSAGE value="day 16 Screen shot and report" />
-    <MESSAGE value="day 14 page object model" />
     <MESSAGE value="day 25 excel" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 25 excel" />
+    <MESSAGE value="day 14 page object model" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 14 page object model" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="101" key="#Plugins" timestamp="1586593410890">
@@ -542,16 +542,16 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="494" y="327" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.825@0.23.1440.825" timestamp="1586627755208" />
-    <state x="458" y="189" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586722829325">
+    <state x="458" y="189" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586723839705">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state x="458" y="189" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.825@0.23.1440.825" timestamp="1586722829325" />
-    <state x="353" y="23" key="CommitChangelistDialog2" timestamp="1586723018513">
+    <state x="458" y="189" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.825@0.23.1440.825" timestamp="1586723839705" />
+    <state x="353" y="23" key="CommitChangelistDialog2" timestamp="1586723892395">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="353" y="12" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1583433368756" />
     <state x="51" y="34" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1585699622621" />
-    <state x="353" y="23" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1586723018513" />
+    <state x="353" y="23" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1586723892395" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1586381355124" />
     <state x="353" y="34" key="CommitChangelistDialog2/0.23.1440.829@0.23.1440.829" timestamp="1583099601131" />
     <state x="100" y="123" width="1240" height="623" key="DiffContextDialog" timestamp="1585551952487">
@@ -682,12 +682,12 @@
     </state>
     <state x="229" y="73" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1583015542102" />
     <state x="229" y="73" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1586458596540" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586723022874">
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1586723893956">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1583433370974" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.823@0.23.1440.823" timestamp="1585699630981" />
-    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586723022874" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1586723893956" />
     <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1586381362819" />
     <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.829@0.23.1440.829" timestamp="1583099607618" />
     <state x="295" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583068035540">
